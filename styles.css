@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+p{
+    line-height: 1.6vw;
+}
+nav {
+    text-align: center;
+}
+.backgroundchange{
+    background-color: #fff0de;
+}
